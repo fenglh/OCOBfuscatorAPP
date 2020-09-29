@@ -23,7 +23,7 @@ OCObfuscator 是一个Objective-C混淆工具， 基于LLVM Clang 中的LibTooli
 #### 应用截图
 
 
-![初始界面](http://www.banmalu.top/content/images/2020/09/image-12.png)
+![初始界面](http://www.banmalu.top/content/images/2020/09/image-14.png)
 
 ![即将构建](http://www.banmalu.top/content/images/2020/09/image-3.png)
 
