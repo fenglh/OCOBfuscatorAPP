@@ -5,7 +5,8 @@ OCObfuscator 是一个Objective-C混淆工具， 基于LLVM Clang 中的LibTooli
 博客同步: [OCObfuscator](http://www.banmalu.top/ocobfuscator/)
 
 
-#### 混淆支持
+#### 1.0.1
+##### 混淆支持
 
 - [x] 类名混淆
 - [x] 协议名混淆
@@ -17,10 +18,16 @@ OCObfuscator 是一个Objective-C混淆工具， 基于LLVM Clang 中的LibTooli
 - [x] xib、Storyboard
 - [ ] 云端词库
 
-说明：
-如果被混淆的代码有在静态库或动态库中被使用，请在混淆前剔除该文件勾选，否则会导致找不到方法或者未定义符号
+##### 修改
+1. 修复一些Bug
+2. UI代码重构
+3. 支持Xcode12
+4. 丰富输出日志，包括普通日志、警告、错误等。
+5. 临时内置词库约有300+单词。（PS:是少了点，快马加鞭完善中）
 
-#### 应用截图
+
+
+##### 应用截图
 
 
 ![初始界面](http://www.banmalu.top/content/images/2020/09/image-14.png)
