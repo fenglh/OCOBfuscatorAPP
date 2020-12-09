@@ -18,6 +18,7 @@ OCObfuscator 是一个Objective-C混淆工具， 基于LLVM Clang 中的LibTooli
 - [x] 消息表达式
 - [x] xib、Storyboard
 - [ ] 云端词库
+- [ ] OC Swift 混编
 
 ----
 
