@@ -23,12 +23,10 @@ OCObfuscator 是一个Objective-C混淆工具， 基于LLVM Clang 中的LibTooli
 
 ### 1.1.0
 
-1. 更新内容(20201209)
-2. 修复@selector混淆问题
-3. 修复method混淆问题
-4. 修复个别情况混淆后无法覆盖文件问题
-5. 通过对AFNetworking源码混淆
-6. 提升混淆速度
+1. 修复@selector混淆问题
+2. 修复method混淆问题
+3. 修复个别情况混淆后无法覆盖文件问题
+4. 提升混淆速度
 
 ### 1.0.1
 
