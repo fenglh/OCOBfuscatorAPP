@@ -8,7 +8,7 @@ OCObfuscator 是一个Objective-C混淆工具。 基于LLVM Clang 中的LibTooli
 
 
 ### 混淆支持
-- [x] 只支持iOS项目
+- [x] 仅支持iOS项目
 - [x] 类名混淆
 - [x] 协议名混淆
 - [x] 分类名
