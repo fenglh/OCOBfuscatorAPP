@@ -1,6 +1,6 @@
 # OCObfuscator
 
-OCObfuscator 是一个Objective-C混淆工具， 基于LLVM Clang 中的LibTooling 模块开发。原理详见:[基于LLVM的Objective-C代码混淆实现](http://www.banmalu.top/tag/llvm/)
+OCObfuscator 是一个Objective-C混淆工具。 基于LLVM Clang 中的LibTooling 模块开发。原理详见:[基于LLVM的Objective-C代码混淆实现](http://www.banmalu.top/tag/llvm/)
 
 博客同步: [OCObfuscator](http://www.banmalu.top/ocobfuscator/)
 
@@ -8,7 +8,7 @@ OCObfuscator 是一个Objective-C混淆工具， 基于LLVM Clang 中的LibTooli
 
 
 ### 混淆支持
-
+- [x] 只支持iOS项目
 - [x] 类名混淆
 - [x] 协议名混淆
 - [x] 分类名
